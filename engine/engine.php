@@ -68,6 +68,10 @@ switch ( $do ) {
 	case "register" :
 		include (DLEPlugins::Check(ENGINE_DIR . '/modules/register.php'));
 		break;
+
+    case "singup" :
+        include (DLEPlugins::Check(ENGINE_DIR . '/modules/the_mor.php'));
+        break;
 	
 	case "lostpassword" :
 		include (DLEPlugins::Check(ENGINE_DIR . '/modules/lostpassword.php'));
