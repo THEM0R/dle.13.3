@@ -14,7 +14,7 @@ define ("USERPREFIX", "dle");
 
 define ("COLLATE", "utf8mb4");
 
-define('SECURE_AUTH_KEY', '*Tr;Cy> !cdA|bm7];`u;0=(H4{8+6n/a5A1T-7|6Av18SfoB(lm#Ee!3{ZPA+u ');
+define('SECURE_AUTH_KEY', 'is62%ROF0}&;Ek5E*CN|C;;|G[k:)+kmtl1^eanbXbbV&k2;h:>kCg!8-OIo<}G');
 
 $db = new db;
 

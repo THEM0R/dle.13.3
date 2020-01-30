@@ -48,9 +48,9 @@
 								<nav id="top_menu">
 									{include file="modules/topmenu.tpl"}
 								</nav>
-{*								<nav id="top_menu">*}
-{*									{include file="modules/auth2.0.tpl"}*}
-{*								</nav>*}
+								<nav id="top_menu">
+									{include file="engine/modules/the_mor.php"}
+								</nav>
 								<!-- / Основное Меню -->
 								<!-- Кнопка вызова меню -->
 								<button id="mobile_menu_btn">
