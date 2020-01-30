@@ -180,6 +180,8 @@ if( ! is_array( $cat_info ) ) {
 //exit;
 
 
+
+
 // регистрация аякс
 
 $is_logged = false;
